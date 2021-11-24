@@ -1,4 +1,5 @@
 # install    
 git clone https://github.com/ArthurAstronot/ArthurAstronot            
 cd ArthurAstronot                   
-python ArthurAstronot.py
+sh Tools Astronot.sh
+python3 Tools Astronot.py
